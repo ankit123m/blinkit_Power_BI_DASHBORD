@@ -1,0 +1,19 @@
+Objective:  
+To provide actionable insights into Blinkit's operations and improve performance monitoring through data visualization.  
+This Power BI project provides an interactive dashboard to analyze Blinkit's key performance metrics. It is designed to deliver insights into sales trends, item performance, and outlet contributions, enabling data-driven decision-making.
+
+Dashboard Features:  
+1. Filter Panel: Interactive filters for outlet location, size, and item type.  
+2. Key Metrics:
+    Total Sales: $1.20M  
+    Average Sales: $141  
+    Number of Items: 8523  
+    Average Rating: 3.9  
+3. Visualizations:
+     Sales Trends : Line graph showcasing growth from 2012–2022, with peaks in 2018 and 2020.  
+     Fat Content Sales : Pie chart displaying sales distribution (Low Fat: $776.32K, Regular: $425.36K).  
+    Top Item Types : Bar chart ranking sales by item category; Fruits & Vegetables lead at $0.18M.  
+4. Outlet Analysis :  
+         Outlet Size: Pie chart (High Size: $507.90K, 42.27%).  
+          Location Tier: Bar chart (Tier 3: $472.13K).  
+         Table Summary: Metrics by outlet type, including total sales, average ratings, and item visibility.  
